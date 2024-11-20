@@ -13,17 +13,17 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/spring boot--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/java-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/spring boot-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/java-007ACC.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/oracle-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Amazon AWS-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Linux-11557c.svg?style=for-the-badge&logo=openCV&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-3670A0?style=for-the-badge&logo=mysql&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/oracle-150458.svg?style=for-the-badge&logo=oracl&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Amazon AWS-4d77cf.svg?style=for-the-badge&logo=AWS&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Linux-11557c.svg?style=for-the-badge&logo=Linux&logoColor=white" />&nbsp
 </div>
 
 <br>
