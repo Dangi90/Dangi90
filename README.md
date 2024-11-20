@@ -52,6 +52,10 @@
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j-nary&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dangi90&layout=compact" />
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@Dangi90">
